@@ -1,6 +1,6 @@
 let boardData = JSON.parse(localStorage.getItem('kanbanBoard')) || {
-  todo: ['Wash Dishes', 'Buy Groceries'],
-  inprogress: ['Learn to code'],
+  todo: [],
+  inprogress: [],
   done: []
 };
 
