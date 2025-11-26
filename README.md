@@ -37,8 +37,7 @@ All tasks are saved in your browser’s `localStorage`. Your data will persist e
 - Chrome ✅
 - Firefox ✅
 - Edge ✅
-- Safari ✅ (minor styling differences in `<select>` options)
-
+- Safari ✅
 ---
 
 >  **Made with ❤️** — A clean, practical tool to boost your productivity!
