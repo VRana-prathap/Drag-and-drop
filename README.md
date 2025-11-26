@@ -2,7 +2,7 @@
 
 A lightweight, responsive, and offline-friendly Kanban task manager built with plain HTML, CSS, and JavaScript—no frameworks required.
 
-![Kanban Board Preview](https://vrana-prathap.github.io/Drag-and-drop/)  
+[Kanban Board Preview](https://vrana-prathap.github.io/Drag-and-drop/)  
 
 ## ✨ Features
 
