@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Simple Kanban</title>
+
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>📋</text></svg>">
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Simple Kanban</h1>
+
+    <div class="board">
+
+      <div class="list" id="todo">
+        <div class="list-header">
+          <h2>To Do</h2>
+        </div>
+        <div class="add-task">
+          <input type="text" class="task-input" placeholder="Add a new task..." maxlength="80" />
+          <button class="add-btn" aria-label="Add task">+</button>
+        </div>
+        <div class="cards"></div>
+      </div>
+
+      <div class="list" id="inprogress">
+        <div class="list-header">
+          <h2>In Progress</h2>
+        </div>
+        <div class="cards"></div>
+      </div>
+
+      <div class="list" id="done">
+        <div class="list-header">
+          <h2>Done</h2>
+        </div>
+        <div class="cards"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
