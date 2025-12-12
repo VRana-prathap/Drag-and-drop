@@ -4,7 +4,7 @@ A lightweight, responsive, and offline-friendly Kanban task manager built with p
 
 [Kanban Board Preview](https://vrana-prathap.github.io/Drag-and-drop/)  
 
-## ✨ Features
+## Features
 
 - **Drag-and-drop** tasks between columns  
 - **Add tasks** using a clean input field (no disruptive pop-ups)  
@@ -12,9 +12,8 @@ A lightweight, responsive, and offline-friendly Kanban task manager built with p
 - **Tasks persist** automatically using `localStorage`  
 - **Fully responsive** — works on mobile, tablet, and desktop  
 - **Professional UI** with subtle animations and spacing  
-- **Clipboard emoji favicon** (📋) for instant recognition  
 
-## 🚀 How to Use
+## How to Use
 
 1.   **Download or clone** this project
 2. **Open** `index.html` in any modern browser  
@@ -24,20 +23,20 @@ A lightweight, responsive, and offline-friendly Kanban task manager built with p
 
 > No build step. No internet needed. Just pure frontend code.
 
-## 💾 Data Persistence
+## Data Persistence
 
 All tasks are saved in your browser’s `localStorage`. Your data will persist even after closing the tab!
 
-> ⚠️ **Note**: Clearing browser data will delete your tasks.
+> **Note**: Clearing browser data will delete your tasks.
 
 ---
 
-## 🧪 Browser Support
+## Browser Support
 
-- Chrome ✅
-- Firefox ✅
-- Edge ✅
-- Safari ✅
+- Chrome 
+- Firefox
+- Edge 
+- Safari 
 ---
 
 >  **Made with ❤️** — A clean, practical tool to boost your productivity!
